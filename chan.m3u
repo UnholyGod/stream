@@ -2602,6 +2602,115 @@ http://watchindia.net:8880/movie/97869/86543/2669.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Prathibha Tutorials (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5o0eTjCIkVcSdhiilx8iBI3VR2R.jpg" group-title="Malayalam",Prathibha Tutorials (2024)
 http://watchindia.net:8880/movie/97869/86543/2670.mkv
 
+#EXTINF:-1 tvg-id="  " tvg-name="  " group-title="SPORT" tvg-logo="https://dl.dropbox.com/scl/fi/wgrfizqmjyvwm1673a05q/premier-league-1.png?rlkey=7fsa6ss74d4h3ltdkj76c8qq1&dl=0", True Premier Football HD 1
+#EXTVLCOPT:http-referrer=https://ufabetcompany.app
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/jyl0jc5wgwjmrh7dg3oj6/premier-league-2.png?rlkey=0niqxa2oep9igmq0lzs3c9zsd&dl=0" group-title="SPORT",True Premier Football HD 2
+#EXTVLCOPT:http-referrer=https://ufabetcompany.app
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-2/playlist.m3u8
+#EXTINF:-1 tvg-id="  " tvg-name="  " group-title="SPORT" tvg-logo="https://dl.dropbox.com/scl/fi/ffjxj7beya6opri0eugis/premier-league-3.png?rlkey=t5q2cmh6pa2wbyf61p86tm6g3&dl=0", True Premier Football HD 3
+#EXTVLCOPT:http-referrer=https://ufabetcompany.app
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-3/playlist.m3u8
+#EXTINF:-1 tvg-id="  " tvg-name="  " group-title="SPORT" tvg-logo="https://dl.dropbox.com/scl/fi/6kiy0jw6qmmoisg7hxv0k/premier-league-4.png?rlkey=d5phzxs5o6likjviy2hejg1zc&dl=0",True Premier Football HD 4
+#EXTVLCOPT:http-referrer=https://ufabetcompany.app
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-4/playlist.m3u8
+#EXTINF:-1 tvg-id="  " tvg-name="  " group-title="SPORT" tvg-logo="https://dl.dropbox.com/scl/fi/g9zwv7stvapc778murj98/premier-league-5.png?rlkey=zuexdibuhgyaqj1j6gjd7e11g&dl=0",True Premier Football HD 5 
+#EXTVLCOPT:http-referrer=https://ufabetcompany.app
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/2gz0h2ie0klwdp6em3l93/TPL1.png?rlkey=54vu0yedbgs46homvuoc97hb2&dl=0" group-title="SPORT",TPL-1
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/bsb-epl1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p3jju1t1idk212zymjrod/TPL2.png?rlkey=ieggoclfs0fnyllts3r6kl6q1&dl=0" group-title="SPORT",TPL-2
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/bsb-epl2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/7yzvm7sbfsk3t28p8uhbo/TPL3.png?rlkey=hzebkj6d8obytcb2y8asj5dz4&dl=0" group-title="SPORT",TPL-3
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/bsb-epl3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/1kuys7uo1fvwk3hhliolq/TPL4.png?rlkey=5ytxoidvv7aof4k325we8s8v6&dl=0" group-title="SPORT",TPL-4
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/bsb-epl4.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ah4q2ekfizpo2n26wldwb/TPL5.png?rlkey=2ahzm705kyrdbu62yb8eltyxf&dl=0" group-title="SPORT",TPL-5
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/bsb-epl5.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8dcmdw3vxv1ssmt6c4xtv/TS1-1.png?rlkey=qjk45cr9i6axvluc2aztsfbdv&dl=0" group-title="SPORT",True Sports 1HD
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://cdn1.googlecdn.live/4k/tsp1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8dcmdw3vxv1ssmt6c4xtv/TS1-1.png?rlkey=qjk45cr9i6axvluc2aztsfbdv&dl=0" group-title="SPORT",True Sports 1HD
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+#https://cdn2.aws-live-streaming.com/lsmscore/tsp1/playlist.m3u8
+#https://dookeela.live/live-tv/tsp1
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8acgrdz4akd0n4mteuu1y/TS2-1.png?rlkey=s22veuvgeyvpa3ic5isgy8cv4&dl=0" group-title="SPORT",True Sports 2HD
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://dookeela.live/live-tv/tsp2
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/84dt0v5n0f6ktarsgw1tb/TS3-1.png?rlkey=ykd2fy9idyeowomoyvjxsmsa4&dl=0" group-title="SPORT",True Sports 3HD
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://dookeela.live/live-tv/tsp3
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/gpt4ya7s77ntm0dfx0i4j/TS4-1.png?rlkey=jl04x5xpdcurkzdkw3zemos8g&dl=0" group-title="SPORT",True Sports 4HD
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://dookeela.live/live-tv/tsp4
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/fxlq8o32vhopsbzl9ntki/TS5-1.png?rlkey=5oyn9sas3i1uv5hxg641y7c9c&dl=0" group-title="SPORT",True Sports 5
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://dookeela.live/live-tv/tsp5
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/xxlztdvf0h6qtf3esy6hh/TS7-1.png?rlkey=akl54tw38tm6uiatp2s52ovox&dl=0" group-title="SPORT",True Sports 7
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://dookeela.live/live-tv/tsp7
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8dcmdw3vxv1ssmt6c4xtv/TS1-1.png?rlkey=qjk45cr9i6axvluc2aztsfbdv&dl=0" group-title="SPORT",True Sports 1HD
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+http://102.129.139.59:7090/https://streaming.livescorethai.net/iptv/hd-tsport1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8acgrdz4akd0n4mteuu1y/TS2-1.png?rlkey=s22veuvgeyvpa3ic5isgy8cv4&dl=0" group-title="SPORT",True Sports 2HD
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://streaming.livescorethai.net/iptv/hd-tsport2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/84dt0v5n0f6ktarsgw1tb/TS3-1.png?rlkey=ykd2fy9idyeowomoyvjxsmsa4&dl=0" group-title="SPORT",True Sports 3HD
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://streaming.livescorethai.net/iptv/hd-tsport3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/gpt4ya7s77ntm0dfx0i4j/TS4-1.png?rlkey=jl04x5xpdcurkzdkw3zemos8g&dl=0" group-title="SPORT",True Sport 4HD
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/hd-tsport4.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664500365.png" group-title="SPORT",beIN Sports 1
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://cdn2.aws-live-streaming.com/lsmscore/bein1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1690843424.png" group-title="SPORT",beIN Sports 2
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://cdn2.aws-live-streaming.com/lsmscore/bein2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1663980670.png" group-title="SPORT",beIN Sports 3
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://cdn2.aws-live-streaming.com/lsmscore/bein3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/0rp3HnvgY5kT0Ru9ImsRMRj5dodjYvYa1077.png" group-title="SPORT",beIN Sports 1 Thailand
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/epl-bein1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/dhYruZGT8FK0IhTPasplhSjV1hh1EqVtv-station-th-bein-sports-3-1079.png" group-title="SPORT",beIN Sports 3 Thailand
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/epl-bein3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/0rp3HnvgY5kT0Ru9ImsRMRj5dodjYvYa1077.png" group-title="SPORT",beIN Sports 1 Thailand
+#EXTVLCOPT:http-referrer=https://ufabetcompany.app
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/bein-sport-1-th/playlist.m3u8
+#https://oral.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/dhYruZGT8FK0IhTPasplhSjV1hh1EqVtv-station-th-bein-sports-3-1079.png" group-title="SPORT",beIN Sports 3 Thailand
+#EXTVLCOPT:http-referrer=https://ufabetcompany.app
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/bein-sport-3-th/playlist.m3u8
+#https://oral.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-7/playlist.m3u8
+
+
 #EXTINF:-1 tvg-chno="1" ch-number="1" tvg-id="MVTV ท้องถิ่นไทย" tvg-name="MVTV ท้องถิ่นไทย" group-title="Thai Channels" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/30_y_OuLc2f0Rn1YXrKzk9jZ6w53dWmGpaM4H.png",MVTV ท้องถิ่นไทย
 https://n-edge-1-th.v2h-cdn.com/mvtv/mvtv/playlist.m3u8
 #EXTINF:-1 tvg-chno="2" ch-number="2" tvg-id="NBT.th" tvg-name="NBT" group-title="Thai Channels" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/115_y_CMe1TGxboE3rpW6dVmj5cOqyZaNfkQKD.png",NBT
